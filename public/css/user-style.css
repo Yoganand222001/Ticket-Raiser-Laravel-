@@ -1,0 +1,37 @@
+.users{
+    margin-left: 40vh;
+    margin-right: 5vh;
+}
+
+.details{
+    font-weight: bold;
+}
+
+.heading{
+    margin-left: 40vh;
+}
+
+.status{
+    margin : 0px 25px;
+}
+
+.time{
+    margin-left: 4px;
+}
+
+.checkout{
+    margin-left: 45%;
+    width: fit-content;
+}
+
+.clock{
+    margin-left: 10px;
+}
+
+.filter{
+    margin-left: 40vh;
+}
+
+.create{
+    margin-left: 10px;
+}

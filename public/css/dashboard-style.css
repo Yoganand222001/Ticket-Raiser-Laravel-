@@ -1,0 +1,23 @@
+.\#-of-tickets{
+    width: 80vh;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.ticket{
+    background-color: #f2e7c3;
+    margin-right: 20vh;
+}
+
+.description{
+    padding-left: 70px;
+}
+
+.ticket-logo{
+    width: fit-content;
+    padding: 10px;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
